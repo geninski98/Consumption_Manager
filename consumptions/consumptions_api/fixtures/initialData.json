@@ -1,0 +1,54 @@
+[
+    {
+        "model": "consumptions_api.ProductCategories",
+        "pk": 1,
+        "fields": {
+            "code": "LL",
+            "name": "landline"
+        }
+    },
+    {
+        "model": "consumptions_api.ProductCategories",
+        "pk": 2,
+        "fields": {
+            "code": "MO",
+            "name": "mobile"
+        }
+    },
+    {
+        "model": "consumptions_api.Products",
+        "pk": 1,
+        "fields": {
+            "code": "LL001",
+            "name": "ADSL",
+            "category": "LL"
+        }
+    },
+    {
+        "model": "consumptions_api.Products",
+        "pk": 2,
+        "fields": {
+            "code": "LL002",
+            "name": "Fiber",
+            "category": "LL"
+        }
+    },
+    {
+        "model": "consumptions_api.Products",
+        "pk": 3,
+        "fields": {
+            "code": "MO001",
+            "name": "Mobile voice",
+            "category": "MO"
+        }
+    },
+    {
+        "model": "consumptions_api.Products",
+        "pk": 4,
+        "fields": {
+            "code": "MO001",
+            "name": "Mobile data",
+            "category": "MO"
+        }
+    }
+]
