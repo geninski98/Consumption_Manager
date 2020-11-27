@@ -46,7 +46,7 @@
         "model": "consumptions_api.Products",
         "pk": 4,
         "fields": {
-            "code": "MO001",
+            "code": "MO002",
             "name": "Mobile data",
             "category": "MO"
         }
